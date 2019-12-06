@@ -44,6 +44,8 @@ public class Main {
                 ((Flying) y).callAirControl();
             }
         }
+        System.out.println("_______________________________");
+       plane.go();
 
 
     }
